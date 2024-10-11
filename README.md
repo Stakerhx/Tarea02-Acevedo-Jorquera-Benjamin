@@ -1,2 +1,2 @@
-#MARTIN MENDEZ martin.mendez@alumnos.uv.cl
+#MARTIN MENDEZ Martin.mendez@alumnos.uv.cl
 #BENJAMIN ACEVEDO Benjamin.acevedo@alumnos.uv.cl
