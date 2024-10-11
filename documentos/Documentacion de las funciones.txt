@@ -1,0 +1,20 @@
+def consultar_mac(mac_address):
+
+- La función consultar_mac consulta el fabricante de una Mac utilizando la API luego de esto si la solicitud es correcta nos devolverá el nombre del fabricante y el tiempo de respuesta en ms de la solicitud por otro lado en caso de ser incorrecta devolver error.
+
+
+def consultar_arp():
+
+- La función consultar_arp consulta la tabla arp del sistema y obtiene el fabricante de cada Mac a su vez esta misma se encargará de mostrar la tabla y consultar el fabricante de cada dirección Mac en la tabla y en caso de que esta consulta tenga un fallo esta nos devolverá “error al consultar la tabla arp”.
+
+
+def mostrar_ayuda():
+
+- La función mostrar_ayuda se encargará de mostrarnos como utilizar el programa a través del comando help que nos devolverá los principales comandos a utilizar en la consola, con lo anterior se ejecutaran según el comando a realizar se llame la función adecuada referente a esa llamada.
+
+
+def main(argv):
+
+- La función main se encargará de procesar los argumentos de las líneas de comandos que realizaran distintas operaciones relacionadas con las direcciones Mac y las tablas arp.
+
+
