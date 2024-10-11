@@ -1,3 +1,5 @@
+#benjamin acevedo, martin mendez
+
 import requests  # Para hacer solicitudes HTTP
 import getopt    # Para manejar argumentos de línea de comandos
 import sys       # Para interactuar con el sistema
