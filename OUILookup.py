@@ -1,4 +1,4 @@
-#benjamin acevedo, martin mendez
+#Benjamin Acevedo, Martin Mendez
 
 import requests  # Para hacer solicitudes HTTP
 import getopt    # Para manejar argumentos de línea de comandos
